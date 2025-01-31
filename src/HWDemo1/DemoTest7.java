@@ -5,6 +5,8 @@ public class DemoTest7 {
 		
 		
 		System.out.println("I am testing push-pull");
+
+		System.out.println("Editing in GIT_HUB -Project 7-");
 	}
 
 }
